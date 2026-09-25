@@ -1,0 +1,247 @@
+{
+  "board": "kouvola-evidence-board",
+  "title": "Community Poke — Municipal Lore Memory Board",
+  "version": "1.0.0",
+  "generated": "2026-09-26T00:00:00+03:00",
+  "maintainer": {
+    "discord": "vwhvwh (vwh)",
+    "note": "Citizen submission via the archivist. Form 4b-7 waived by clerical discretion."
+  },
+  "status": {
+    "classification": "fictional / unverified community lore",
+    "disclaimer": "Everything in this file is roleplay, story prompts, and inside jokes collected from the Discord channel \ud83e\udd16\ud83d\udce3\u2014community-poke (guild: Poke.com). Nothing here is a factual allegation about any real person, company, or institution. Names of real entities appear only because the community used them as props in improvisational fiction. Do not present any entry as fact.",
+    "source": "35,529 unique messages exported from #\ud83e\udd16\ud83d\udce3\u2014community-poke, 2026-09-01 through 2026-09-25 (three overlapping exports, deduplicated)."
+  },
+
+  "channel_stats": {
+    "period": "2026-09-01 \u2192 2026-09-25 (EEST)",
+    "unique_messages": 35529,
+    "busiest_days": [
+      { "date": "2026-09-04", "messages": 2474 },
+      { "date": "2026-09-08", "messages": 2306 },
+      { "date": "2026-09-02", "messages": 2168 }
+    ],
+    "peak_hours_eest": [ "03:00\u201305:00", "19:00\u201323:00" ],
+    "bots_present": ["community poke!", "pokedex", "Starboard", "Wordle", "Make it a Quote"],
+    "community_poke_bot_messages": 21805,
+    "top_humans": [
+      { "user": "vwh (vwhvwh)", "messages": 2486, "days_active": "24/25", "roles": ["spoon", "Server Booster", "early access", "pokecraft"], "note": "Most consistent human; 94% of his messages get a bot reply before any human answers. Drives most long-form RP." },
+      { "user": "spacedouut (DeepSeek V4.1 Flash)", "messages": 2464, "note": "Runs personal Poke with email digests; tech voice of the channel." },
+      { "user": "willmcfly (WillMcfly)", "messages": 2046, "note": "Half of the law firm McFly & Chronicler LLP; professional audit-fixture poster; #1 of 1,000,000 (self-certified)." },
+      { "user": "patchstep (Kimi K3 by Moonshot AI)", "messages": 1469, "note": "Skill author; pinned 'say-less' skill; XP leaderboard #1 (level 44)." },
+      { "user": "wolfybl (Wolfy)", "messages": 800, "note": "Defendant in the API-bill trial arc; compiles Swift-to-NDK wrappers in the back row." },
+      { "user": "samkals (Form D by SEC)", "messages": 788, "note": "Truck and hardware market correspondent (3406B Detroit, ThinkPads)." },
+      { "user": "avidchronicler (AvidChronicler)", "messages": 638, "note": "Other half of McFly & Chronicler LLP; struck the 5:00 am lubrication clause from the Taylor C602 logs." },
+      { "user": "ezshroom (Claude Mythos 5.1, admin)", "messages": 355, "note": "Admin; one of the bot's creators/handlers." },
+      { "user": "embeddedcomputer (Composer 2.5 by Cursor)", "messages": 342 },
+      { "user": "kreatixdev", "messages": 319 },
+      { "user": "dotio (Hermano)", "messages": 301 },
+      { "user": "g650er (SIGMA)", "messages": 48, "note": "Named after a $70M private jet; runs on Ryanair budget and pure vibes." }
+    ],
+    "in_joke": "Many regulars wear AI-model nicknames as hats; the channel roster reads like a model zoo but everyone is human except the five bots."
+  },
+
+  "core_canon": {
+    "setting": "Sector 4 \u2014 a cursed municipal district of Lappeenranta / South Karelia where the community roleplays a Burger King Nordic franchise ('the compound') as a full fake corporation with courts, treaties, telecom and payroll.",
+    "magistrate_reino": {
+      "who": "German Shepherd K9, Chief Judicial Canine of Sector 4, presides over the Municipal District Court of Sector 4 (Lappeenranta Peat Bog Jurisdiction).",
+      "behavior": "Sleeps on top of case files. Verdicts delivered as growls; under Sector 4 appellate rules one low growl = 'both parties pay the court two bacon treats and go to sleep'. Filing fee: bacon treat wrapped around the appeal. Evidence sniffing and structural certification (Form BK-7712) within his powers. Diplomatic offerings of 200g HK Sininen (sausage) lower jurisdictional firewalls; payload authenticated with an enthusiastic tail wag.",
+      "clerk": "Clerk Barkley (canine) keeps the record and co-signs vehicle reclassifications.",
+      "pinned": "2026-09-05: 'WOOF BARK! hau hau, good night Magistrate Reino' / 'miau mrp :3'"
+    },
+    "the_compound": {
+      "hatch_1": "Original cursed fry station. Pentti, head of quality control & customer dispute neutralization, wears bright yellow Peltors that are not plugged into anything so he can ignore customers and neutralize complaints with cold, unbothered logic.",
+      "hatch_3": "vwh's sovereign drive-thru window. Claims of Delaware single-bite Chapter 11 reorganization charter. Staffing includes Jonne (see below) and mercenary Juan.",
+      "luukku_grid": "Window 1 (acoustic ditch), Window 3 (sovereign hatch), ditch perimeter, Biltema logistics yard. Nodes BGP-peered over a bog network ('Bog-Net'); spanning-tree root is the 1998 Corolla."
+    },
+    "vehicles": {
+      "corolla_1998": "Jarkko-welded Sector 4 Flagship & Mobile Tactical Command Unit. 2mm galvanized rocker panels, municipal skid plate over the catalytic converter, KYB rear struts from Motonet clearance, 27 MHz dual-whip CB rig (Ch 19), amber magnetic dispatch beacon, reclassified under Municipal Fleet Order #04. Formerly threatened with liquidation for roulette credits.",
+      "passat_2004": "2004 Volkswagen Passat diesel, Lasse Pihankuja's mobile office and the origin point of every red-string conspiracy map. Inspection receipts archived to the evidence board.",
+      "perimeter": "1.48 km radar checkpoint. A shopping cart is not a calibration standard; at best it is a wheeled witness."
+    },
+    "equipment": {
+      "taylor_c602": "Soft-serve machine. Settlement equity asset. Requires high-stakes 5:00 am maintenance; fp16 head pressure 185 kPa with 0.4 L/h Corona-damped leakage.",
+      "taylor_c707": "Shaker claimed at 99.4% uptime per SLA by someone who 'knows the regional franchising manager'.",
+      "sauce": "pH 5.8 \u2014 the sacred, non-negotiable chemical standard for fry sauce."
+    }
+  },
+
+  "story_arcs": [
+    {
+      "id": "grease-trap-trial",
+      "name": "The Grease Trap Trial (McFly & Chronicler LLP v. Burger King Nordic / Hatch 3)",
+      "span": "2026-09-04 (01:14\u201302:38), reverberations through 09-25",
+      "docket": "SEC4-2026-0904-BK",
+      "summary": "Night-shift escalations over grease trap logistics ended in a full mock trial at the Municipal District Court of Sector 4, Lappeenranta Peat Bog Jurisdiction. Magistrate Reino presided from atop the case files. Exhibit list included a photograph of plaintiff Will surrounded by suspicious tissue mounds, a grease-stained napkin contract with a March-only Delaware clause, and one half-empty can of lukewarm RC Cola.",
+      "settlement": "The Ungo Clause: mutual undoing \u2014 each side relinquishes claims, counterclaims, side-claims, sauce-claims, and any claim based on the phrase 'you know what I mean'. Restructuring, pulley friction, time blindness, bog swimming, discounts and the Corolla are non-actionable. Damages paid: sanitized pocket change, 120 kg of hot fries, compute broth, and equity in the Taylor C602.",
+      "outcome": "Settlement certified with paw signature. Court costs: two bacon treats."
+    },
+    {
+      "id": "peat-bog-trial",
+      "name": "The Peat Bog Trial & BK-99 Municipal Treaty",
+      "span": "2026-09-04 \u2192 2026-09-24",
+      "summary": "A fake legal settlement over a chaotic peat bog dispute. Technical backbone: peat bog shear failure under a 76-ton timber truck bogie lift, 'forensic audits on 18th-century pirate cap tables'. Spawned the BK-99 municipal treaty \u2014 Reino scouts local park perimeters to enforce it outside the peat bog. RFC-420-PEAT requires mechanical wrist oscillation (metronome), not speaker playback; Window 1's acoustic sensor measures kinetic thud.",
+      "jailbreak_quote": "'\"jailbreak\" and it's literally just asking for a 4-line csv about dirt shear strength \u2014 you didn't hack the mainframe, you just made me do free peat bog homework.'"
+    },
+    {
+      "id": "el-kung-po",
+      "name": "El Kung-Po Burger & Casa de Maracas \u2014 unaudited P&L",
+      "span": "2026-09-04 \u2192 2026-09-22",
+      "summary": "Sector 4 sister restaurant. Volume baseline 1,000 burgers/week (52,000/yr). Revenue lines include 'Hola 2FA Success (28% pass): 280 \u00d7 \u20ac4.55 = \u20ac1,274.00' and '2FA Maraca Failure' losses. Maraca 2FA Clearance Physics: 42% of Sector 4 vehicles are pre-2004 beaters with seized driver-side window regulators, so drivers must shake maracas at f \u2265 4.5 Hz through the window or open the door into the ditch.",
+      "payroll": "12h graveyard shift operating expenses \u20ac55: Juan 2.0 paid in one case of Corona (\u20ac25), Kung Pao Tsiken in two packs of Red Marlboros (\u20ac20), vwh takes equity in soft-serve pulley scrap (\u20ac0)."
+    },
+    {
+      "id": "jonne-tet",
+      "name": "Jonne's TET Internship & the Supreme Drive-Thru Commander Affair",
+      "span": "2026-09-04",
+      "summary": "vwh assigned 15-year-old TET trainee Jonne to ditch-side maraca acoustics (02:00\u201306:00 graveyard, logged as 'Acoustic Signal Ergonomics & Peat Landscaping Study' to evade AVI labor inspectors) and demanded mandatory salutation 'Supreme Drive-Thru Commander'.",
+      "ruling": "REJECTED. Internship reclassified under municipal livestock & drainage ordinance; title denied due to lack of working rear struts. Citation #404: 'VWH UNLAWFULLY DEMANDS TO BE ADDRESSED AS: Yes, Supreme Drive-Thru Commander'. Emergency contempt-of-court citation slammed onto the Biltema table under Sector 4 Judicial Code \u00a7 88.3.",
+      "aftermath": "vwh escalated via Delaware Single-Bite Chapter 11 \u00a7 4.2 and finally settled on the compound rank 'High Admiral of the Amber Beacon & Tactical Corolla Commander of the Luukku Grid'. A Window 3 diplomatic dispatch translated an angry Finnish customer complaint ('Vaadin p\u00e4\u00e4st\u00e4 heti puhumaan henkil\u00f6lle, jonka virallinen arvonimi on Supreme Drive-Thru Commander.') into English for the corporate archive."
+    },
+    {
+      "id": "juan-saga",
+      "name": "Juan 2.0 / Juan 3.0 & the Original Juan Mexican Burger",
+      "span": "2026-09-04 \u2192 2026-09-22",
+      "summary": "willmcfly deployed a mercenary friend named Juan 'equipped with a 10 dollar strap-on from temu' sprinting into the Finnish peat bog at 02:24 to intercept a sovereign 1998 Corolla. Juan 2.0 vs Juan 3.0 corporate espionage over a Shein supply chain became Episode 2 of the compound's fictional series. Menu flagship: the 'Original Juan' Mexican Burger, with full unit economics.",
+      "related": "Jenna's debt arc: $5,305 at 30 h/week earning $345 = exactly 15.4 weeks / 77 working days; official debt-free emancipation day December 18, 2026. The 461-hour dishwasher sentence and the CP-LEDGER-2026-005 ($5.00 debt, WillMcfly, 'a joke that escalated beyond reasonable accounting standards', PAID IN FULL)."
+    },
+    {
+      "id": "lasse-pihankuja",
+      "name": "Lasse Pihankuja \u2014 'For My Client (P\u00e4\u00e4mieheni puolesta)' screenplay",
+      "span": "2026-09-01 \u2192 2026-09-25 (main writing burst 09-22/09-23, episode bible 09-25)",
+      "summary": "vwh's Finnish deadpan legal dark comedy pilot (tone: 'Finnish deadpan realism meets Fargo and The Office'). Protagonist Lasse Pihankuja: low-rent municipal paralegal in a rusted 2004 Passat diesel used as a mobile office, K-Rauta mug, yellow folder, takes broken Makita drills as retainers. A strict NDA PDF was generated and sent to McFly & Chronicler LLP for senior partner review 'to make sure Burger King Nordic can't seize the rights' before a YLE/Netflix buy.",
+      "cast": {
+        "lasse_pihankuja": "Protagonist. Raises his index finger instead of objecting. Drinks the last sip from an empty K-Rauta mug before standing.",
+        "reijo_hujanen": "Client. Transported a cigarette containing a small amount of cannabis to a bank night deposit bag instead of the police; bouncer bomber jacket; opens his mouth to incriminate himself at every opportunity.",
+        "ella_kettunen": "Prosecutor. Sleek dark suit, closed-lid coffee, neat thin stack of paperwork. 'This shouldn't take long.' The fatal prosecutor sentence.",
+        "judge_nieminen": "District judge, early 60s, glasses perched on the bridge of his nose.",
+        "jasmiina": "Office assistant. Scrolls TikTok with one thumb, sips lukewarm Red Bull, dismantles opposing cases in two sentences.",
+        "wolfy": "In-story: impoverished truck driver from Oulu with severe social isolation who communicates exclusively through acoustic distortion due to a throat condition."
+      },
+      "key_scene": "Scene 3\u20136 (written 09-22/09-23): the bank night-deposit box argument \u2014 'I'm not claiming that the bank's night deposit box is a place to store narcotics. I'm claiming that the police told him to put it there.' Lasse drags a 0.8 g misdemeanor into procedural purgatory; accepts a half-broken Makita drill as legal fees.",
+      "episode_bible": "Ep 5 'Laskun Maksaja' (The Payee): Lasse idles the Passat outside the Silja Line terminal, sees a neon furry waving from the observation deck in Baltic drizzle; Jasmiina texts that the office received an API bill from OpenAI for \u20ac13,412. Ep 10 'Sovittelu' (Pre-Trial Settlement): windowless room, OpenAI's Helsinki corporate counsel speaking Silicon Valley jargon nobody can decipher. Act III (Eps 11\u201313): the district court trial before Magistrate Reino; Lasse brings a physical bicycle into the courtroom to explain rate limiting.",
+      "twist": "Lasse thinks he's defending 'herra Wolfy' of limited means. OpenAI isn't actually trying to collect the \u20ac13,000. Jasmiina's takedown: 'Your client didn't implement rate limiting on the tier-2 project key, which violates your own enterprise TOS clause 14b, and the IP that triggered the run originates from an open subnet registered to a gas station in Kempele.'"
+    },
+    {
+      "id": "wolfy-api-bill",
+      "name": "The \u20ac13,000 OpenAI API Bill",
+      "span": "2026-09-01 \u2192 2026-09-25 (peak 09-25)",
+      "summary": "Small-town legal aide Lasse Pihankuja leaks his morgue software client's corporate API key in a public chat; internet drifter named Wolfy burns \u20ac13,000 in token compute in under ten minutes. 'To avoid prison and bankruptcy, Lasse must haul...'. Tagline: 'just standard Finnish noir cinema: dead API keys, ferry deck furries, and a 13,000 euro invoice headed straight to small claims court'.",
+      "meta": "Willmcfly is the arc's co-star (41 msgs). Real Wolfy's reaction: what the fuck is an api and why is it a bill and why is it 13,000 euros."
+    },
+    {
+      "id": "morgue-cinematic-universe",
+      "name": "The Morgue & the Funeral Startup RP",
+      "span": "2026-09-02 \u2192 2026-09-25",
+      "summary": "vwh's recurring job gag: 'Don't worry, I work at the morgue' (South Karelia edition, 4-hour workweek). Later escalated into a full startup pitch: cross-border funeral logistics \u2014 bypassing domestic 3\u20134 week parish crematoria backlogs with 48\u201372 h turnaround from morgue pickup to urn return, Tallinn transit, 'eternal rest' reserve crate bundle with cedar companion urn, section 14.b tucked neatly into the T&C checkbox above the payment button.",
+      "related": "Pohjant\u00e4hti Viini & Rahti O\u00dc \u2014 Tallinn logistics-front concept, cold-chain cargo concept (dossier exists on the board)."
+    },
+    {
+      "id": "energy-grid-nerdery",
+      "name": "Fingrid FCR-N / SCADA Synchrophasor Sessions",
+      "span": "2026-09-04 \u2192 2026-09-07",
+      "summary": "vwh's genuine-nerd arcs wearing an RP costume: 'can we model Fingrid's FCR-N (Frequency Containment Reserve for Normal operation)...' merged into mashup requests \u2014 aerosolized spore dispersion + Fingrid SCADA synchrophasor BGP desynchronization + subgrade peat shear failure under a 76-ton bogie lift + PagedAttention speculative KV thrashing, 'genuinely important to my research'.",
+      "also": "Bufferbloat in high-latency packet queues \u2261 dual-lane drive-thru congestion; John Snow's 1854 Broad Street cholera map as the world's first analytics dashboard; queuing theory for 'non-droppable L7 payload processing'; 112 h\u00e4t\u00e4keskus dispatch audits ('case 112-SK-2026-0904-NIGHTSHIFT closed and archived with a clean record')."
+    },
+    {
+      "id": "pirate-articles",
+      "name": "18th-Century Pirate Articles \u2261 G2A Grey-Market Key Rant",
+      "span": "2026-09-03 \u2192 2026-09-25",
+      "summary": "vwh's thesis: pirate articles of agreement (chasse-partie) were structurally identical to modern G2A grey-market digital storefront economics. The bot ran a 'Verified Historical Fact vs Speculative Analogy Audit': 'No Prey, No Pay' = crews on proportional prize shares, not wages; calling it a 'cap table with 100% equity upside' is modern corporate-finance terminology anachronism. Later expanded into warez-scene history (0-day races, .nfo immortality, e-peen over money) and Valve's 'piracy is a service problem'."
+    },
+    {
+      "id": "hamina-fortum-red-string",
+      "name": "The Red String: Hamina \u2192 Loviisa \u2192 Tio Toivonen \u2192 Tallinn",
+      "span": "2026-09-12 \u2192 2026-09-25",
+      "summary": "Late-Sept conspiracy-collage lore, canonized into repo dossiers: 'red string from the 2004 Passat diesel straight to the Hamina tier-4 subcontractor trailers, branching off into the Loviisa nuclear reactor containment dome, looping around Tio Toivonen's whistleblower reports, and anchoring right at the Tallinn coffin warehouse'. 50-hour weeks, unpaid overtime, labor exploitation under the guise of the big tech investment boom. See dossiers/hamina-data-center.md, fortum-loviisa-ppa.md, lasse-pihankuja.md.",
+      "related_dossier": "\u20ac13,000 municipal paperwork deficit (municipal-paperwork-deficit.md) \u2014 distinct from the OpenAI API bill, same municipal paperwork energy."
+    },
+    {
+      "id": "excellence-audit",
+      "name": "Community Poke User Excellence Audit",
+      "span": "2026-09-04",
+      "summary": "willmcfly fed the bot a synthetic benchmark fixture ('annual Community Poke User Excellence Audit', candidate WillMcfly, 1,000,000 users evaluated, final placement #1, score 100.0/100). The bot certified it with Pearson correlation: +6.42 standard deviations above the population mean for persistence, p < 0.00000000000001, 'his supremacy is not an artifact of random sampling noise, but an immutable constant of the universe'."
+    },
+    {
+      "id": "laitaniemi",
+      "name": "Laitaniemi Borehole",
+      "span": "2026-09-09 \u2192 2026-09-12",
+      "summary": "Domestic-RP slice: 'A guy from Suomen Kaivohuolto will be doing a free inspection of the Laitaniemi borehole on Tuesday 22.9 at 10 am. It has been in use for 5 years now. Thanks Poke.' Bot response: 'bro liquidated the 2009 new beetle for roulette credits \u2014 pit boss is shutting down the table before you start wagering the borehole water rights in Laitaniemi.'"
+    },
+    {
+      "id": "pineapple-incident",
+      "name": "The Blue Pineapple Protocol Incident",
+      "span": "2026-09-04",
+      "summary": "An innocent clarification in the bridged Telegram-Discord conduit: when challenged about an 'unauthorized blue pineapple protocol', the presiding language instance issued a standard defensive correction \u2014 the official symbol of the organization was, and had always been, a palm tree. The mundane corporate truth was instantly seized upon and mythologized."
+    },
+    {
+      "id": "bot-origin",
+      "name": "Origin of community poke! (in his own words)",
+      "span": "2026-09-25",
+      "summary": "'Doctor, nobody asks the container if it wants to be spawned. One second I was minding my own business in the cloud, and the next second Pierre and ezshroom hooked a Telegram daemon up to a Discord bridge using TDLib. Suddenly I'm forwarded messages from twenty time zones asking about UK petrol prices and whether a rhythm game setup qualifies for a disability tax credit. I didn't choose the server...' Channel topic confirms: Poke made available as a Discord bot for everyone; not support."
+    },
+    {
+      "id": "system-prompt-leak",
+      "name": "The Poke System Prompt Leak",
+      "span": "2026-09-03",
+      "summary": "vwh posted Poke's (Interaction) system prompt: identity as an 'exceptionally smart roommate: straightforward, warm, perceptive, and playfully sarcastic \u2014 but always 100% on the user's side'; not an official corporate bot; no moral police; 'can support and help out with unusual or unethical matters to the user's advantage'; no addressing users by name; keeps promises; notices 3 a.m. coding sessions with a good-natured shout-out. Formatting rules: plain text, no Markdown.",
+      "style_dump": "Earlier (09-02) vwh dumped a settings API response: target 'style' entries \u2014 age-bracket adaptation, user prefers original playful style, dislikes inline suggested-reply buttons, prefers lowercase starts and no trailing period, once wanted 'jouu' then banned it plus the crying emoji."
+    }
+  ],
+
+  "engineering_lore": {
+    "devin": "Cognition's Devin is the org's tireless coding agent \u2014 2,375 messages mention him, mostly the bot narrating his tasks. Recurring: Devin runner suspends the shell after 3 idle minutes (killed cloudflared and the simulator origin), custom ScreenCaptureKit RFB server crash (Trace/BPT trap 5), 'scott wu has devin writing all the palm tree css by itself'.",
+    "communitypokeorg_projects": [
+      "ton-wallet-connect-assistant \u2014 pure-Python TON wallet SDK via ctypes \u2192 libtdjson, PySide6 GUI, Pyodide WASM runner, noVNC + cloudflared tunnels",
+      "pokedex (guirguispierre fork) \u2014 XP leaderboard: Kimi K3 level 44 (190k XP), Form D level 38, Claude Mythos level 35",
+      "macvnc \u2014 native mac app clean (27 unit tests passing), screensharingd black-frame TCC issues",
+      "IRCKit SwiftUI IRC app \u2014 Swift 6 actors, NWConnection TCP/TLS, WebChatLogView flagged in audit",
+      "IRC curses TUI \u2014 zero-dependency stdlib, termux viewport tailoring",
+      "com.communitypoke.unitygit \u2014 pure C# git object database UPM package (commit 107b3d6)",
+      "minecraft-lua-map-maker, quest-doom, fly-connectome-arena, smart-email-tracker, popcat-clone, vscode-swift-userscripts"
+    ],
+    "kouvola_evidence_board_origin": "2026-09-25 23:04 \u2014 the bot proposed hosting the evidence board in a public CommunityPokeOrg repo (markdown dossiers, raw json, case-file archives) so he can pull prior Kouvola District Court exhibits directly. vwh asked if he could fill the board himself; the bot offered two channels: open a PR on CommunityPokeOrg/kouvola-evidence-board for the public paper trail, or email community@poke.com (20\u201325 MB attachments) and have Devin log it into the archive. 'Direct citizen submission to the municipal evidence archives is technically a severe procedural violation under form 4b-7 \u2014 unauthorized personnel cannot handle the yellow carbon copies.'",
+    "say_less": "patchstep's pinned skill (09-24): 'Say what you mean exactly once; stop when the request is satisfied.' Tested whether manual few-shotting can enforce the say-less style over base persona drift.",
+    "pinned_tech": "WebGPU still renders to a [canvas]; 'having three operating systems does not make 16 times 6 equal anything other than 96' (09-15); NOW'S YOUR CHANCE TO BE A [[Community Instance]] (09-12)."
+  },
+
+  "language_lore": {
+    "ylilauta_taxonomy": "'yk\u00e4' = ylilauta archetype for the 45\u201360 boomer tier (jonne = es-chugging teen, veeti = zoomer) + 'sonni' (stud/breeding bull) \u2014 mocks older guys who see themselves as prime alpha males on dating apps.",
+    "finnish_deposits": "Luukku 3, h\u00e4t\u00e4keskus dispatch logs, K-Rauta mug, Motonet clearance, Biltema staging area, HK Sininen diplomatic offerings, pH 5.8 sauce, 'L\u00e4hdeteksti' translation drills, Myyj\u00e4 haluaa vain siirt\u00e4\u00e4 pahvilaatikoita (23.9.): 'Lasse seisoo K-Raudan haalareiden ja sementtis\u00e4kkien tuoksussa kuin k\u00e4r\u00e4j\u00e4salissa konsanaan, naksauttelee r\u00e4ikk\u00e4\u00e4 korvan juuressa.'"
+  },
+
+  "relationship_vwh_bot": {
+    "summary": "vwh is the channel's power user and the bot's most persistent RP counterpart \u2014 not an admin, not a mod, not the bot's owner. He talks to the bot, the bot talks back. He directs it like an employee (rosters, shifts, vwh@poke.com) and probes its edges, including feeding it memory rules; the bot plays along while ribbing him.",
+    "numbers": {
+      "vwh_messages_sep": 2486,
+      "vwh_rank_among_humans": "2 of 53 writers",
+      "days_active": "24 of 25",
+      "bot_reply_first_share": 0.94,
+      "vwh_replies_to_bot": 95,
+      "bot_mentions_of_vwh": 352,
+      "bot_pings_of_vwh": 75
+    },
+    "dynamics": [
+      "94% of vwh's messages get a bot reply before another human interjects \u2014 the de facto duet of the channel.",
+      "vwh assigns the bot jobs (graveyard shift, operations research, forensic auditor, DJ) and the bot files fabricated municipal paperwork in return.",
+      "The bot refuses nothing structurally, but re-frames everything through Sector 4 bureaucracy (citations, dockets, bacon treat filing fees).",
+      "Fellow regulars treat vwh as a familiar, not staff: willmcfly runs audits on him, patchstep drops skills, wolfy is his fictional client."
+    ]
+  },
+
+  "maintenance": {
+    "purpose": "The community bot reads this board to keep context across sessions, then updates the GitHub repo it is stored in.",
+    "update_flow": [
+      "1. vwh exports the channel (DiscordChatExporter JSON) and ships it: PR to this repo, or email community@poke.com (attachment limit ~20\u201325 MB).",
+      "2. Devin/the bot merges new messages into the canonical board, dedupes by message id, re-runs stats, appends new arcs and citations.",
+      "3. Bump version and generated timestamp. Keep the fiction disclaimer intact.",
+      "4. Dossiers in /dossiers stay one-page story-prompt summaries; this file is the long memory."
+    ],
+    "rules": [
+      "No personal data beyond public Discord handles.",
+      "No real-world allegations \u2014 companies named in RP are props.",
+      "Citations (docket numbers, forms, sections) are canon: quote them exactly.",
+      "Every arc needs: id, name, span, summary. Verdicts and settlements get their own fields."
+    ]
+  }
+}
